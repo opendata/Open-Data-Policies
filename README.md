@@ -2,6 +2,7 @@
 
 A collection of data policies enacted throughout the U.S.
 
+* [Chattanooga, TN](https://github.com/cityofchattanooga/Chattanooga-Open-Data-Policy) (under development on GitHub)
 * [Chicago, IL](http://www.cityofchicago.org/city/en/narr/foia/open_data_executiveorder.html)
 * [Cook County, IL](http://blog.cookcountygov.com/opencc/wp-content/uploads/2011/09/Open_Cook_County_9.21.11.pdf) (law)
 * [Hawaii](http://www4.honolulu.gov/docushare/dsweb/Get/Document-145974/8bfh056l.pdf)
