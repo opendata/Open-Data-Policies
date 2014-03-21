@@ -16,4 +16,4 @@ A collection of data policies enacted throughout the U.S.
 * [South Bend, IN](http://www.ci.south-bend.in.us/sites/default/files/files/Mayor_2013-Open%20Portal%20Exec%20Order.pdf) (executive order)
 * United States [M10-06](http://www.whitehouse.gov/open/documents/open-government-directive), [EO-13642](http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
 
-Anybody looking for model legislation should see [the Sunlight Foundation's Open Data Policy Guidelines](http://sunlightfoundation.com/opendataguidelines/), which enumerates 31 points that they advise including in any open data policy.
+Anybody looking for model legislation should see [the Sunlight Foundation's Open Data Policy Guidelines](http://sunlightfoundation.com/opendataguidelines/), which enumerates 31 points that they advise including in any open data policy. See also [the Sunlight Foundation's "Open Data Policies at Work" map](http://sunlightfoundation.com/policy/opendatamap/).
