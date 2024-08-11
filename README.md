@@ -9,6 +9,7 @@ A collection of data policies enacted throughout the U.S.
 * [Illinois](http://ilga.gov/legislation/publicacts/fulltext.asp?Name=098-0627) (law)
 * [Madison, WI](https://madison.legistar.com/ViewReport.ashx?M=R&N=Text&GID=205&ID=1201083&GUID=2EC21911-798D-4499-BFAF-96BDACBCD8C7&Title=Legislation+Text)
 * [Montgomery County, MD](http://www6.montgomerycountymd.gov/content/council/pdf/agenda/cm/2012/121126/20121126_GO2.pdf)
+* [New Hampshire RSA Title I, Chapter 21-R, sections 10, 13, and 14](https://www.gencourt.state.nh.us/rsa/html/I/21-R/21-R-mrg.htm) (law)
 * [New York City](http://www.nyc.gov/html/doitt/html/open/local_law_11_2012.shtml) (law)
 * [New York State](http://nys-its.github.io/open-data-handbook/guidelines.html?1394511383118) (executive order)
 * [Pittsburgh, PA](https://pittsburgh.legistar.com/View.ashx?M=F&ID=2930493&GUID=E7B4A24D-361B-4471-B8C9-8C6EC0348613)
